@@ -32,6 +32,6 @@ Besides coding, I enjoy traveling to explore new places, learn about different c
 ## Get in Touch
 
 - **Email:** 22521105@gm.uit.edu.vn
-- **Facebook:**https://www.facebook.com/trangiangocphu/
+- **Facebook:** https://www.facebook.com/trangiangocphu/
 
 Feel free to reach out if you'd like to connect or collaborate on a project!
