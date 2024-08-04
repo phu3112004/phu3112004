@@ -4,7 +4,7 @@
 
 I'm a third-year student at the University of Information Technology, Ho Chi Minh City. In addition to my studies, I have self-taught basic HTML, CSS, and JavaScript, completing several small projects along the way. Currently, I am learning ReactJS to enhance my web interface design skills, with the aspiration of becoming a professional web developer capable of creating high-quality web products that meet user needs.
 
-## Projects
+## Recent projects
 
 ### Project 1: FUANIME
 - **Description:** This is a web project for watching anime.
