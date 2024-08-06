@@ -6,14 +6,16 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 
 ## Recent projects
 
-### Project 1: FUANIME
+### Project 1: Fu's Blog
+- **Description:** This is a blog website.
+- **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
+- **Link to project:** https://github.com/phu3112004/fus-blog
+- 
+### Project 2: FUANIME
 - **Description:** This is a web project for watching anime.
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
 - **Link to project:** https://github.com/phu3112004/FUANIME
-### Project 2: Fu's Blog
-- **Description:** This is a web project for writing, reading, editing,...the blog.
-- **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
-- **Link to project:** https://github.com/phu3112004/fus-blog
+
 ### Project 3: 2PM& Travel
 - **Description:** This is a travel website where you can book tours, consult, read reviews,...
 - **Technologies used:** HTML, CSS, JavaScript
