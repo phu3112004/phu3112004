@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a third-year student at the University of Information Technology, Ho Chi Minh City. In addition to my studies, I have self-taught basic HTML, CSS, and JavaScript, completing several small projects along the way. Currently, I am learning React JS, Node JS to enhance my web-programing skills, with the aspiration of becoming a professional web developer capable of creating high-quality web products that meet user needs.
+I'm a third-year student at the University of Information Technology, Ho Chi Minh City. In addition to my studies, I have self-taught basic HTML, CSS, and JavaScript, completing several small projects along the way. Currently, I am learning React JS, Node JS to enhance my web programing skills, with the aspiration of becoming a professional web developer capable of creating high-quality web products that meet user needs.
 
 ## Recent projects
 
