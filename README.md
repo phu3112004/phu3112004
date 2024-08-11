@@ -10,7 +10,7 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 - **Description:** This is a blog website.
 - **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
 - **Link to project:** https://github.com/phu3112004/fus-blog
-- 
+  
 ### Project 2: FUANIME
 - **Description:** This is a web project for watching anime.
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
