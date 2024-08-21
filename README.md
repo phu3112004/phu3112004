@@ -24,11 +24,13 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 ## Skills
 
 - **Languages:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,)](https://skillicons.dev)
-- **Frameworks:**<br>
-   [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cpp)](https://skillicons.dev)
+- **Frameworks, Libraries:**<br>
+   [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
 - **Tools:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify)](https://skillicons.dev)
+- **Databases:**<br>
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ## Interests
 
