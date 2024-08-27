@@ -24,7 +24,7 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 ## Skills
 
 - **Languages:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,cpp,php)](https://skillicons.dev)
 - **Frameworks, Libraries:**<br>
    [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
 - **Tools:**<br>
