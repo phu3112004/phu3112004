@@ -30,8 +30,11 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 - **Tools:**<br>
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify)](https://skillicons.dev)
 - **Databases:**<br>
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-  <img width="48" height="48" alt="image" src="https://repository-images.githubusercontent.com/481972331/2a732feb-d716-4d0f-a8de-c520fa79b4ff"> 
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
+    &nbsp;<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/90b73a5b-0f79-42fc-9a02-d3f9096a3a8f">
+
+
+
 
 ## Interests
 
