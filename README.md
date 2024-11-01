@@ -16,11 +16,6 @@ I'm a third-year student at the University of Information Technology, Ho Chi Min
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
 - **Link to project:** https://github.com/phu3112004/FUANIME
 
-### Project 3: 2PM& Travel
-- **Description:** This is a travel website where you can book tours, consult, read reviews,...
-- **Technologies used:** HTML, CSS, JavaScript
-- **Link to project:** https://github.com/phu3112004/2PMNTravel
-
 ## 🧑‍🎤 Interests
 
 Besides coding, I enjoy traveling to explore new places, learn about different cultures, and try regional cuisines. These experiences help me gain valuable knowledge and insights that I incorporate into my work.
