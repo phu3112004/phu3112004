@@ -23,7 +23,7 @@ Feel free to reach out if you'd like to connect or collaborate on a project!
 - **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
 - **Link to project:** https://github.com/phu3112004/fus-blog
   
-##📗Project 2: FUANIME
+## 📗 Project 2: FUANIME
 - **Description:** This is a web project for watching anime.
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
 - **Link to project:** https://github.com/phu3112004/FUANIME
