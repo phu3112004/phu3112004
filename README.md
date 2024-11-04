@@ -16,14 +16,14 @@ Feel free to reach out if you'd like to connect or collaborate on a project!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trangiangocphu/) 
-# 📘 Recent projects
+# 📌 Recent projects
 
-## Project 1: Fu's Blog
+## 📘 Project 1: Fu's Blog
 - **Description:** This is a blog website.
 - **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
 - **Link to project:** https://github.com/phu3112004/fus-blog
   
-## Project 2: FUANIME
+##📗Project 2: FUANIME
 - **Description:** This is a web project for watching anime.
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
 - **Link to project:** https://github.com/phu3112004/FUANIME
