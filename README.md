@@ -1,13 +1,13 @@
 # Hello, I'm Tran Gia Ngoc Phu! 👋
 
 # 🙋🏻‍♂️ About Me
-## 👦🏻 Introduce
+### 👦🏻 Introduce
 I'm a third-year student at the University of Information Technology, Ho Chi Minh City. In addition to my studies, I have self-taught basic HTML, CSS, and JavaScript, completing several small projects along the way. Currently, I am learning React JS, Node JS to enhance my web programing skills, with the aspiration of becoming a professional web developer capable of creating high-quality web products that meet user needs.
-## 🧳 Interests
+### 🧳 Interests
 
 Besides coding, I enjoy traveling to explore new places, learn about different cultures, and try regional cuisines. These experiences help me gain valuable knowledge and insights that I incorporate into my work.
 
-## 📞 Get in Touch
+### 📞 Get in Touch
 
 - **Email:** 22521105@gm.uit.edu.vn
 - **Facebook:** https://www.facebook.com/trangiangocphu/
@@ -18,12 +18,12 @@ Feel free to reach out if you'd like to connect or collaborate on a project!
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trangiangocphu/) 
 # 📌 Recent projects
 
-## 📘 Project 1: Fu's Blog
+### 📘 Project 1: Fu's Blog
 - **Description:** This is a blog website.
 - **Technologies used:** HTML, CSS, JavaScript, EJS, NodeJS, Bootstrap, MySQL
 - **Link to project:** https://github.com/phu3112004/fus-blog
   
-## 📗 Project 2: FUANIME
+### 📗 Project 2: FUANIME
 - **Description:** This is a web project for watching anime.
 - **Technologies used:** HTML, CSS, JavaScript, ReactJS
 - **Link to project:** https://github.com/phu3112004/FUANIME
